@@ -1,6 +1,10 @@
 [
     {
-        "merged": "com.example.clipcollector.app-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "com.example.clipcollector.app-main-31:/layout/activity_main.xml"
+        "merged": "/data/data/com.termux/files/home/.gradle/daemon/8.0/com.example.clipcollector.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/data/data/com.termux/files/home/.gradle/daemon/8.0/com.example.clipcollector.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.clipcollector.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.clipcollector.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
     }
 ]
