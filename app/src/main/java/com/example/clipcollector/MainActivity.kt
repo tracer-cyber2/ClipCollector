@@ -17,7 +17,7 @@ import androidx.core.content.ContextCompat
        
              private val logPath = "/sdcard/ClipCollector/cliplog.txt"
 
-override fun onCreate(savedInstanceState: Bundle?) {
+/*override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_main)
 
@@ -40,7 +40,7 @@ private fun checkStoragePermission() {
         )
     }
 }
-
+*/
                override fun onCreate(savedInstanceState: Bundle?) {
                   super.onCreate(savedInstanceState)
                   setContentView(R.layout.activity_main)
